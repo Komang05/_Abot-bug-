@@ -1,1 +1,73 @@
 
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "6A4GTYALPBUkSp5i9CWuarsMfdHLN3KkWyMt/V+lTWA="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "UC5pAQBN1X6uceny96XukJff6FXmzX+Lp4EKntLt1Gk="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "UPdU3q5zDlOuc/DkkfLQaJuzEk9cs33cRGmhhEnzz1A="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "P7kKvKCAJCG6SrUOXwGkpYz5fsZc/KIcIt3oXXPFZh0="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "sCPryHWOy/h80C5EHrk/6uz7r1niwRqsR+eZ4j6hzHQ="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "2zKlPudXfWnCBJpnfTyKWIojLZ1Q4SJl2xk7NvuDi14="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "J1e3Me65f+tqXBs3f9vxOFQ6jvOPk/+d12meRYS3fnYevDK13dKWTTmbDvjIa41W6lIadE/0yeUPhebaL1F6AA=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 134,
+    "advSecretKey": "HyfVo/3LZbn//kyOxvKwGkg93qom1TVjZajz9+5OkYo=",
+    "processedHistoryMessages": [],
+    "nextPreKeyId": 1,
+    "firstUnuploadedPreKeyId": 1,
+    "accountSettings": {
+      "unarchiveChats": false
+    },
+    "account": {
+      "details": "CKXHlRIQ1Jz4nAYYCA==",
+      "accountSignatureKey": "HCiNMTHTnxtNILoW3J9wUah/wuPyNI937CsuJqibsQo=",
+      "accountSignature": "IY01ZxamhOIyLxsdQcWjyQ2Yym9foT0a4FCaGOZxP1bzet9NhCx/y9M7WtJicePgGAS5S8Mum1B1hcDE3yHgDQ==",
+      "deviceSignature": "q/2fb/UlHrNJJ3GgJTaf5H5YdhCF+AgsMf67di0yIlAz9VHRrB5q1vdJFyYgQkkbbUyETwgr+48XEoxGbe07Dg=="
+    },
+    "me": {
+      "id": "6289503217356:21@s.whatsapp.net"
+    },
+    "signalIdentities": [
+      {
+        "identifier": {
+          "name": "6289503217356:21@s.whatsapp.net",
+          "deviceId": 0
+        },
+        "identifierKey": {
+          "type": "Buffer",
+          "data": "BRwojTEx058bTSC6FtyfcFGof8Lj8jSPd+wrLiaom7EK"
+        }
+      }
+    ],
+    "platform": "android"
+  },
+  "keys": {}
+}
